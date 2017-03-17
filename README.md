@@ -3,7 +3,7 @@ OpenBI
 
 The easiest way to create interactive dashboard for the rest of us on this planet.
 
-![] (https://raw.githubusercontent.com/kookiatsuetrong/OpenBI/master/photo.png)
+![Preview](https://raw.githubusercontent.com/kookiatsuetrong/OpenBI/master/photo.png)
 
 Contribute
 ----------
